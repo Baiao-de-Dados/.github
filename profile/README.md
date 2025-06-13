@@ -5,3 +5,10 @@
 ---
 
 <p> 🎯 Nosso objetivo é desenvolver uma solução tecnológica robusta, capaz de resolver desafios reais de negócio, utilizando dados, automação e inteligência artificial. Acreditamos no poder da colaboração, da criatividade e da inovação para transformar processos e gerar impacto. 🚀 </p>
+
+## Repositórios
+
+<p align="center">
+    <a href="https://github.com/Baiao-de-Dados/rpe-frontend" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Baiao-de-Dados&repo=rpe-frontend&show_owner=true&bg_color=efe1c9&title_color=342619&icon_color=b16b31&text_color=342619&hide_border=true" /></a>
+      <a href="https://github.com/Baiao-de-Dados/rpe-backend" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Baiao-de-Dados&repo=rpe-backend&show_owner=true&bg_color=efe1c9&title_color=342619&icon_color=b16b31&text_color=342619&hide_border=true" /></a>
+</p
