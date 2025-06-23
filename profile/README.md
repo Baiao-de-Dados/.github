@@ -11,5 +11,5 @@
 <p align="center">
     <a href="https://github.com/Baiao-de-Dados/rpe-frontend" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Baiao-de-Dados&repo=rpe-frontend&show_owner=true&bg_color=efe1c9&title_color=342619&icon_color=b16b31&text_color=342619&hide_border=true" /></a>
       <a href="https://github.com/Baiao-de-Dados/rpe-backend" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Baiao-de-Dados&repo=rpe-backend&show_owner=true&bg_color=efe1c9&title_color=342619&icon_color=b16b31&text_color=342619&hide_border=true" /></a>
-    <a href="https://github.com/Baiao-de-Dados/rpe-data" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Baiao-de-Dados&repo=rpe-backend&show_owner=true&bg_color=efe1c9&title_color=342619&icon_color=b16b31&text_color=342619&hide_border=true" /></a>
+    <a href="https://github.com/Baiao-de-Dados/rpe-data" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Baiao-de-Dados&repo=rpe-Data&show_owner=true&bg_color=efe1c9&title_color=342619&icon_color=b16b31&text_color=342619&hide_border=true" /></a>
 </p
